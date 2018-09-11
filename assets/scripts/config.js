@@ -2,7 +2,7 @@
 
 let apiUrl
 const apiUrls = {
-  production: 'https://sheltered-tor-82632.herokuapp.com/',
+  production: 'https://sheltered-tor-82632.herokuapp.com',
   development: 'http://localhost:4741'
 }
 
